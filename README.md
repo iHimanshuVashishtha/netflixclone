@@ -29,10 +29,15 @@ FontAwesome - For icons.
         Project Structure
 
 Netflix-Clone/
+
 │-- Assests/                   # Contains images and logo
+
 │-- index.html                  # Main HTML file
+
 │-- style.css                   # Main CSS file
+
 │-- README.md                   # Project documentation
+
 
         How to Use
 
