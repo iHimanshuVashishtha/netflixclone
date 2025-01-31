@@ -1,8 +1,8 @@
-Netflix Clone
+        Netflix clone
 
 This is a simple Netflix clone built using HTML and CSS. It replicates the Netflix homepage layout with responsive design and modern UI elements.
 
-Features
+        Features
 
 Landing Page: A visually appealing homepage similar to Netflix.
 
@@ -16,7 +16,7 @@ Frequently Asked Questions: Includes expandable FAQ items.
 
 Footer Section: Contains useful links and contact information.
 
-Technologies Used
+        Technologies Used
 
 HTML5 - For structuring the webpage.
 
@@ -26,7 +26,7 @@ Google Fonts - For custom typography.
 
 FontAwesome - For icons.
 
-Project Structure
+        Project Structure
 
 Netflix-Clone/
 │-- Assests/                   # Contains images and logo
@@ -34,7 +34,7 @@ Netflix-Clone/
 │-- style.css                   # Main CSS file
 │-- README.md                   # Project documentation
 
-How to Use
+        How to Use
 
 Clone the repository:
 
@@ -44,14 +44,14 @@ Open index.html in your browser.
 
 Customize as needed.
 
-Live Preview
+        Live Preview
 
 If you want to see the live version, you can deploy it using GitHub Pages or services like Vercel/Netlify.
 
-Contributing
+        Contributing
 
 Feel free to fork this repository and contribute by submitting a pull request.
 
-License
+        License
 
 This project is for educational purposes only and is not affiliated with Netflix.
